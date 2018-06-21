@@ -1,2 +1,4 @@
 # Speedman
-Learning
+Learning how to code and using GitHub!
+
+Thank you!
